@@ -1,0 +1,14 @@
+[
+  {
+    "BillType": "Deposit",
+    "Amount": 200.0
+  },
+  {
+    "BillType": "Withdrawal",
+    "Amount": 200.0
+  },
+  {
+    "BillType": "PayBill",
+    "Amount": 1000.0
+  }
+]

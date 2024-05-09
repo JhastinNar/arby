@@ -1,0 +1,88 @@
+C:\Users\pc\Documents\ATM machine\ATM machine\bin\Debug\net8.0-windows\ATM machine.exe
+C:\Users\pc\Documents\ATM machine\ATM machine\bin\Debug\net8.0-windows\ATM machine.deps.json
+C:\Users\pc\Documents\ATM machine\ATM machine\bin\Debug\net8.0-windows\ATM machine.runtimeconfig.json
+C:\Users\pc\Documents\ATM machine\ATM machine\bin\Debug\net8.0-windows\ATM machine.dll
+C:\Users\pc\Documents\ATM machine\ATM machine\bin\Debug\net8.0-windows\ATM machine.pdb
+C:\Users\pc\Documents\ATM machine\ATM machine\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\pc\Documents\ATM machine\ATM machine\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\pc\Documents\ATM machine\ATM machine\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.Form1.resources
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.Properties.Resources.resources
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.csproj.GenerateResource.cache
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.AssemblyInfo.cs
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM mach.2144BB60.Up2Date
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.dll
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\refint\ATM machine.dll
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.pdb
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.genruntimeconfig.cache
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ref\ATM machine.dll
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.Form2.resources
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.dll
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\refint\ATM machine.dll
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.pdb
+D:\ATM machine\ATM machine\bin\Debug\net8.0-windows\ATM machine.exe
+D:\ATM machine\ATM machine\bin\Debug\net8.0-windows\ATM machine.deps.json
+D:\ATM machine\ATM machine\bin\Debug\net8.0-windows\ATM machine.runtimeconfig.json
+D:\ATM machine\ATM machine\bin\Debug\net8.0-windows\ATM machine.dll
+D:\ATM machine\ATM machine\bin\Debug\net8.0-windows\ATM machine.pdb
+D:\ATM machine\ATM machine\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\ATM machine\ATM machine\bin\Debug\net8.0-windows\System.Management.dll
+D:\ATM machine\ATM machine\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.csproj.AssemblyReference.cache
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.Form1.resources
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.Form2.resources
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.Properties.Resources.resources
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.csproj.GenerateResource.cache
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.AssemblyInfoInputs.cache
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.AssemblyInfo.cs
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.csproj.CoreCompileInputs.cache
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM mach.2144BB60.Up2Date
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.genruntimeconfig.cache
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ref\ATM machine.dll
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.balance.resources
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.deposit.resources
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.paybills.resources
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.withdraw.resources
+C:\Users\pc\Documents\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.sourcelink.json
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.balance.resources
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.deposit.resources
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.paybills.resources
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.withdraw.resources
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM machine.sourcelink.json
+D:\ATM machine\ATM machine\obj\Debug\net8.0-windows\ATM_machine.Form3.resources
+C:\Users\1\3D Objects\Group\ATM machine\bin\Debug\net8.0-windows\ATM machine.exe
+C:\Users\1\3D Objects\Group\ATM machine\bin\Debug\net8.0-windows\ATM machine.deps.json
+C:\Users\1\3D Objects\Group\ATM machine\bin\Debug\net8.0-windows\ATM machine.runtimeconfig.json
+C:\Users\1\3D Objects\Group\ATM machine\bin\Debug\net8.0-windows\ATM machine.dll
+C:\Users\1\3D Objects\Group\ATM machine\bin\Debug\net8.0-windows\ATM machine.pdb
+C:\Users\1\3D Objects\Group\ATM machine\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\1\3D Objects\Group\ATM machine\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\1\3D Objects\Group\ATM machine\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM machine.csproj.AssemblyReference.cache
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM_machine.balance.resources
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM_machine.deposit.resources
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM_machine.Form1.resources
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM_machine.Form2.resources
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM_machine.Form3.resources
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM_machine.paybills.resources
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM_machine.Properties.Resources.resources
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM_machine.withdraw.resources
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM machine.csproj.GenerateResource.cache
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM machine.AssemblyInfoInputs.cache
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM machine.AssemblyInfo.cs
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM machine.csproj.CoreCompileInputs.cache
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM machine.sourcelink.json
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM mach.2144BB60.Up2Date
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM machine.dll
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\refint\ATM machine.dll
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM machine.pdb
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM machine.genruntimeconfig.cache
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ref\ATM machine.dll
+C:\Users\1\3D Objects\Group\ATM machine\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\1\3D Objects\Group\ATM machine\obj\Debug\net8.0-windows\ATM_machine.transaction.resources
